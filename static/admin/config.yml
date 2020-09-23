@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo: HugoLiconV/gatsby-starter-netlify-cms
+  repo: HugoLiconV/gatsby-starter-delog
 
 media_folder: static/assets
 public_folder: /assets
